@@ -1,0 +1,15 @@
+{
+    "hitCreation": {
+        "production": false,
+        "taskUrl": "https://www.csail.mit.edu/people",
+        "title": "HIT Title", 
+        "description": "HIT description",
+        "numTasks": 5, 
+        "numAssignments": 100,
+        "rewardAmount": "0.00",
+        "keywords": "put, some, keywords, here",
+        "duration": 1200,
+        "lifetime": 16400
+    }, 
+    "variants": []
+}
