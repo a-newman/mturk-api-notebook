@@ -1,14 +1,14 @@
 {
     "hitCreation": {
         "production": false,
-        "taskUrl": "https://www.csail.mit.edu/people",
+        "taskUrl": "https://viz-title-influence.herokuapp.com/ui/",
         "title": "HIT Title", 
         "description": "HIT description",
         "numTasks": 5, 
-        "numAssignments": 100,
+        "numAssignments": 10,
         "rewardAmount": "0.00",
         "keywords": "put, some, keywords, here",
-        "duration": 1200,
+        "duration": 12000,
         "lifetime": 16400
     }, 
     "variants": []
